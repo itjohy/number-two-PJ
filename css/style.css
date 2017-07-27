@@ -65,7 +65,7 @@ background: #eeeeef;
     position: absolute;
     top: 0;
     left: 0;cursor: pointer;
-        width: 86px;
+      width: 86px;
     height: 27px;
 }
 .chulix{
@@ -343,7 +343,7 @@ nav ul li a:hover{
 
 nav ul li{
    list-style: none;
-   
+
    float:left;
 }
 
@@ -379,7 +379,7 @@ display: block;
     line-height: 34px;}
 .todaycomm{
 	width: 65%;
-	
+
 }
 .jrtj{
 	    height: 30px;
@@ -423,7 +423,7 @@ overflow: hidden;
     float: left;
     box-sizing: border-box;
     width: 33.333%;
-    
+
 }
 .list-pro:last-child{border-right:none;}
 .list-pro h3{
@@ -464,7 +464,7 @@ overflow: hidden;
     line-height: 34px;}
 .todaynews{
 	width: 33%;
-	
+
 }
 
 .arrow2{
@@ -488,7 +488,7 @@ overflow: hidden;
 .todaynews_body ul li{
 	list-style: none;
 	    padding: 10px 0;
-	
+
 }
 .thumbnews{
 	margin-right: 3%;
@@ -506,7 +506,7 @@ overflow: hidden;
 	    padding: 6px 16px;
 	box-sizing: border-box;
 	background: #fff;
-	
+
 }
 .todaynews_body li{
 	width: 100%;
@@ -673,7 +673,7 @@ display: block;
     background: #fff;
 }
 .input_sub{
-	
+
 	box-sizing: border-box;
 	border: 1px solid #2c3740;
   float: right;
@@ -718,11 +718,11 @@ position: absolute;
 .datatitle i:before{
   content: url(../images/data.png);
 }
-.sideboxl{  
+.sideboxl{
 	-webkit-box-shadow: 0 3px 10px rgba(153,153,153,.5);
     box-shadow: 0 0px 10px rgba(153,153,153,.5);
 	  top: 143px;    width: 126px;position: fixed;left: 20px;}
-  .sidebox2{  
+  .sidebox2{
 -webkit-box-shadow: 0 3px 10px rgba(153,153,153,.5);
 box-shadow: 0 0px 10px rgba(153,153,153,.5);
   top: 143px;      width: 172px;position: fixed;right: 20px;}
@@ -751,7 +751,7 @@ box-shadow: 0 0px 10px rgba(153,153,153,.5);
     position: relative;
     background: #f7f7f7;
 
-}  
+}
 .img-icon{
 	    margin-left: 4%;
 margin-right: 3%;
@@ -811,16 +811,16 @@ padding: 2% 1%;
     /* width: 26%; */
     /* float: left; */
     display: block;
-}  
+}
 .datatime{
 	    margin-bottom: 3%;
 	display: block;    font-size: 12px!important;color: #666666;text-align: right;}
-  
+
 .img-icon:before{
     content: url(../images/img-icon.png);
 height: 35px;
 display: block;
-} 
+}
 .oneoncerea{
       text-decoration: none;
   box-sizing: border-box;
@@ -857,7 +857,7 @@ display: block;
   color: #2c3740;
   font-size: 16px;
 }
-.oneonce img{max-width:100%;display: block;margin:0 auto;}  
+.oneonce img{max-width:100%;display: block;margin:0 auto;}
 .databody2{
     padding: 4% 0%;
 	background: #fff;
@@ -981,7 +981,7 @@ width: 22%;
     text-align: center;
     color: #333333;
 }
-.exchange-hover{    
+.exchange-hover{
     padding-top: 8%;
     padding-bottom: 20%;
     border-bottom: 1px dashed #ccc;
@@ -1002,7 +1002,7 @@ width: 22%;
 	font-size: 18px;
 	display: block;
 	color: #333;
-	font-weight: 500;	
+	font-weight: 500;
 }
 .hotline strong i:before{
 	content: url("../images/cellphone.png");
@@ -1084,7 +1084,7 @@ width: 22%;
     font-size: 14px;
 
         padding: 10px 14px;
- 
+
     width: 80%;
     box-sizing: border-box;
 }
@@ -1233,7 +1233,7 @@ position: absolute;
 right: 12px;
     top: -2px;
     }
-    
+
 .textd b:before{
 
 	content: url(../images/uarrow.png);
@@ -1333,7 +1333,7 @@ right: 12px!important;
     -o-transition: all 200ms ease-in-out 2ms;
 		background: #ff7300;
 	color: #fff!important;
-	
+
 }
 .filtercurrent{
 	background: #ff7300;
@@ -1384,14 +1384,14 @@ right: 12px!important;
     padding: 4% 1%;
 }
 .content_body{
-	
+
 	box-sizing: border-box;
 	padding: 7% 3% 4%;
 	width: 100%;
 }
 .pics_goodls img{display: block;max-width: 100%;}
 .goods_list ul{
-	
+
 }
 .fumarg a:hover .thumbnails{
 	transition: all 200ms ease-in-out 2ms;
@@ -1631,19 +1631,19 @@ display:block
 }
 .progress{
 position:relative;
-padding: 1px; 
+padding: 1px;
 border-radius:3px;
 margin: 53px 0;
 text-align:center;
-} 
-.bar {background-color: green; display:block; width:0%; height:20px; border-radius:3px; } 
+}
+.bar {background-color: green; display:block; width:0%; height:20px; border-radius:3px; }
 .percent{
 position:absolute;
 top:0;
 height:20px;
 display:inline-block;
 color:#fff;
-} 
+}
 
 
 
@@ -1653,7 +1653,7 @@ color:#fff;
 
 
 .name_input:focus {
- 
+
     outline: 0;
 
 }
@@ -2334,12 +2334,12 @@ text-align: center;
 
 .owl-controls .owl-page, .owl-controls .owl-buttons div {
     cursor: pointer;
-    
+
 }
 
 
 .owl-buttons{
-   
+
     display: none!important;
 }
 
