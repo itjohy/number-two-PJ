@@ -1,0 +1,1 @@
+console.lgo(123);
